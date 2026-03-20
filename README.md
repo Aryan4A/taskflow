@@ -41,7 +41,7 @@ Taskflow is a modern, full-featured To-Do web application built using HTML, CSS,
 
 ![Taskflow Screenshot](taskflow.png)
 ```
-![Taskflow Screenshot](screenshot.png)
+
 ```
 
 ---
